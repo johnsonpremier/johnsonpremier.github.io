@@ -17,11 +17,41 @@ This will be awesome!!!!!
 # Introduction 
 Johnson Premier Consulting is here to provide IT consulting and technical support for those in need. From startups to more established organizations, we provide stellar services. Our expert IT Consultants will make your relationship with technology enjoyable.
 
+<!--*'s will help you create unordered lists -->
 
 # Listing My Information
-<!--*'s will help you create unordered lists -->
+
 
 * Item 1
 * Item 2
 * Item 3
 * Item 4
+
+
+<!-- ``` data inside ``` will help you create code blocks -->
+
+<!-- below is a bash code block -->
+
+## BASH code block...
+```bash
+yum update all -y
+```
+
+<!-- below is a yml code block -->
+
+## YAML code block...
+
+```yml
+---
+  - hosts: all
+    tasks:
+      - name: Ping all machines
+        action: ping
+```
+
+## Photos
+
+This is an example of an image being added to markup.
+
+![Getting Started](/assets/img/posts/getting-started.png)
+_Getting Started_
