@@ -9,8 +9,6 @@ tags: [ssh,linux,] #Tag names should always be lowercase
 
 <!--Titles can be in H1-H6, whichever format you choose, put that many #'s in front of the title -->
 
-![Generic Lock](/assets/img/posts/generic-lock.jpg)
-
 # Issue : 
 
 - When attempting to ssh into a machine, you receive a similar message.
