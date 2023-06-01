@@ -49,7 +49,7 @@ yum update all -y
         action: ping
 ```
 
-<!-- below is commented out, because it's not working on the github site, but it is working locally.
+<!-- below is commented out, because it's not working on the github site, but it is working locally. When I comment out the ## Photos section, the website updates correctly. ** NEED TO TROUBLESHOOT **
 
 ## Photos
 
