@@ -26,7 +26,8 @@ Johnson Premier Consulting is here to provide IT consulting and technical suppor
 * Item 2
 * Item 3
 * Item 4
-
+* Item 5
+* Item 6
 
 <!-- ``` data inside ``` will help you create code blocks -->
 
@@ -49,7 +50,7 @@ yum update all -y
         action: ping
 ```
 
-<!-- below is commented out, because it's not working on the github site, but it is working locally. When I comment out the ## Photos section, the website updates correctly. ** NEED TO TROUBLESHOOT **
+<!-- below is commented out, because it's not working on the github site, but it is working locally. When I comment out the ## Photos section, the website updates correctly. ** NEED TO TROUBLESHOOT ** It appears that the files MUST be .jpg, when I had a .png file the image didn't load.
 -->
 
 ## Photos
