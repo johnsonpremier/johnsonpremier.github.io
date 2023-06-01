@@ -58,5 +58,10 @@ yum update all -y
 This is an example of an image being added to markup.
 
 ![Getting Started](/assets/img/posts/getting-started.jpg)
+
 _Getting Started_
 
+
+## Links
+
+🔗 Review the Markdown Cheat Sheet at <https://www.markdownguide.org/cheat-sheet/>

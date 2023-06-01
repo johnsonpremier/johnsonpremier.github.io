@@ -31,7 +31,6 @@ faillock --user <username>
 
 ```bash
 faillock --user <username> --reset
-
 ```
   - _Replace <username> with the username of the account you want to unlock._
 
