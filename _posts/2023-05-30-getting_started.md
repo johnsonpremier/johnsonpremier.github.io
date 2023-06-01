@@ -50,12 +50,12 @@ yum update all -y
 ```
 
 <!-- below is commented out, because it's not working on the github site, but it is working locally. When I comment out the ## Photos section, the website updates correctly. ** NEED TO TROUBLESHOOT **
+-->
 
 ## Photos
 
 This is an example of an image being added to markup.
 
-![Getting Started](/assets/img/posts/getting-started.png)
+![Getting Started](/assets/img/posts/getting-started.jpg)
 _Getting Started_
 
--->
