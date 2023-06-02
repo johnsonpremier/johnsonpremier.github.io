@@ -8,9 +8,6 @@ tags: [rhel,user_management,terminal]
 
 ![RHEL Expiration](/assets/img/posts/rhel-expiration.jpg)
 
-_RHEL Expiration_
-
-
 # Change RHEL User Expiration Date
 
 In RHEL (Red Hat Enterprise Linux), you can change a user's expiration date using the terminal. Here's how:
