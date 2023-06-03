@@ -61,6 +61,10 @@ This is an example of an image being added to markup.
 
 _Getting Started_
 
+## Color
+
+<span style="color:red"> **This is red text** </span>
+
 
 ## Links
 
