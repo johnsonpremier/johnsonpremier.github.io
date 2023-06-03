@@ -14,7 +14,6 @@ tags: [cache,browser,brave,chrome]
 
 Below are instructions for the Brave browser, but information would also apply to any Chromium browser (Chrome, Brave, Opera, et al)
 <br>
-<br>
 * When viewing website in browser
 * Right click on page
 * Inspect (to open DevTools)
@@ -22,7 +21,6 @@ Below are instructions for the Brave browser, but information would also apply t
 * Left side panel at very top, under Application section...
 * Click Storage (formerly "Clear Storage")
 * In right panel, click button **Clear site data**
-<br>
 <br>
 
 ## Links
