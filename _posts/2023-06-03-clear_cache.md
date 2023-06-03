@@ -28,3 +28,5 @@ Below are instructions for the Brave browser, but information would also apply t
 🔗 Review the Chrome Developers Documentation here: 
 
 <https://developer.chrome.com/docs/devtools/storage/cache/?utm_source=devtools>
+
+Testing, new update from browser...
