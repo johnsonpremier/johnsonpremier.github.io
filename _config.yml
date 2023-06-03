@@ -167,7 +167,10 @@ defaults:
       swcache: true
 
 sass:
+  sass_dir: _sass
   style: compressed
+  include:
+    - custom.scss
 
 compress_html:
   clippings: all
