@@ -5,9 +5,7 @@ categories: [linux, terminal]
 tags: [rhel,user_management,terminal]
 ---
 
-<img src="/assets/img/posts/rhel-expiration.jpg" alt="RHEL Expiration" style="height:400px; width:600px;" />
-
-
+![RHEL Expiration](/assets/img/posts/rhel-expiration.jpg)
 
 # Change RHEL User Expiration Date
 
@@ -38,4 +36,4 @@ chage -E YYYY-MM-DD username
 chage -l username
 ```
 
-  _Congratulations. That's it! You have successfully changed the expiration date for the RHEL user using the terminal._
+  _Congratulations. That's it!! You have successfully changed the expiration date for the RHEL user using the terminal._
