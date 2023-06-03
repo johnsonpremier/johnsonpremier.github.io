@@ -5,8 +5,9 @@ categories: [browser]
 tags: [cache,browser,brave,chrome]
 ---
 
-<img src="/assets/img/posts/clear-cache.jpg" alt="Clear Cache" style="height:400px; width:600px;" />
+![Clear Cache](/assets/img/posts/clear-cache.jpg)
 
+<img src="/assets/img/posts/clear-cache.jpg" alt="Clear Cache" style="height:400px; width:600px;" />
 
 # Clear Cache for One Website
 
