@@ -5,8 +5,7 @@ categories: [linux, terminal]
 tags: [rhel,user_management,terminal]
 ---
 
-
-![RHEL Expiration](/assets/img/posts/rhel-expiration.jpg)
+<img src="/assets/img/posts/rhel-expiration.jpg" alt="RHEL Expiration" style="height:400px; width:600px;" />
 
 # Change RHEL User Expiration Date
 
