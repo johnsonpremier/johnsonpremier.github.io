@@ -61,6 +61,15 @@ This is an example of an image being added to markup.
 
 _Getting Started_
 
+<!-- 
+
+You can also add an image with the below text. It works great for resizing, however, the image does not show up in the preview section of VSCode, it shows up as a broken image, but it works on the website.
+
+-->
+
+<img src="/assets/img/posts/clear-cache.jpg" alt="Clear Cache" style="height:400px; width:400px;" />
+
+
 ## Color
 
 <span style="color:red"> **This is really red text** </span>
