@@ -63,7 +63,7 @@ _Getting Started_
 
 ## Color
 
-<span style="color:red"> **This is red text** </span>
+<span style="color:red"> **This is really red text** </span>
 
 
 ## Links
