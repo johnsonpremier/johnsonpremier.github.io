@@ -4,8 +4,10 @@ date: 2023-06-01 12:00:00 -0500
 categories: [linux, terminal]
 tags: [rhel,user_management,terminal]
 ---
-
+<!-- 
 <img src="/assets/img/posts/rhel-expiration.jpg" alt="RHEL Expiration" style="height:400px; width:600px;" />
+-->
+
 
 # Change RHEL User Expiration Date
 
