@@ -5,8 +5,6 @@ categories: [browser]
 tags: [cache,browser,brave,chrome]
 ---
 
-![Clear Cache](/assets/img/posts/clear-cache.jpg)
-
 <img src="/assets/img/posts/clear-cache.jpg" alt="Clear Cache" style="height:400px; width:600px;" />
 
 # Clear Cache for One Website
@@ -29,5 +27,3 @@ Below are instructions for the Brave browser, but information would also apply t
 🔗 Review the Chrome Developers Documentation here: 
 
 <https://developer.chrome.com/docs/devtools/storage/cache/?utm_source=devtools>
-
-hi

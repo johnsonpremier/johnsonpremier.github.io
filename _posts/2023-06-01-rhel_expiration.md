@@ -11,7 +11,7 @@ tags: [rhel,user_management,terminal]
 
 In RHEL (Red Hat Enterprise Linux), you can change a user's expiration date using the terminal. Here's how:
 
-- Open a terminal.
+- Open a terminal...
 
 - Switch to the root user or use a user with administrative privileges.
 
