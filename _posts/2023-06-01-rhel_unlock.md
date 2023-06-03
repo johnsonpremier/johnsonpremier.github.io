@@ -6,8 +6,9 @@ tags: [rhel,user_management,terminal]
 ---
 
 
-<img src="/assets/img/posts/rhel-unlock.jpg" alt="RHEL Unlock" style="height:400px; width:600px;" />
+![RHEL Unlock](/assets/img/posts/rhel-unlock.jpg)
 
+<img src="/assets/img/posts/rhel-unlock.jpg" alt="RHEL Unlock" style="height:400px; width:600px;" />
 
 # Unlock RHEL Account via Faillock
 
