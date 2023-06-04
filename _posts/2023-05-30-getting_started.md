@@ -83,4 +83,4 @@ You can also add an image with the below text. It works great for resizing, howe
 
 
 <br>
-<br
+<br>
