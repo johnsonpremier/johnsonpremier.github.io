@@ -81,6 +81,8 @@ You can also add an image with the below text. It works great for resizing, howe
 
 🔗 Review the Markdown Cheat Sheet at <https://www.markdownguide.org/cheat-sheet/>
 
+🔗 Review the [Official HP Website](https://hp.com)
+
 
 <br>
 <br>
