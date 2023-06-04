@@ -67,5 +67,5 @@ In summary, the HP Envy Desktop is a high-performing and versatile solution that
 
 🔗 Review the Product Specifications of the HP ENVY Desktop TE01-3022 on the  [Official HP Website](https://support.hp.com/us-en/document/c08218456)
 
-🔗 Consider Purchasing the [HP ENVY Desktop TE01-3022 PC](https://www.amazon.com/HP-i7-12700-Bluetooth-Pre-Built-TE01-3022/dp/B0B2CBQHCK/ref=sr_1_3?crid=3E6YIOI0D74B0&keywords=hp+desktop+i7&qid=1685903154&sprefix=hp+desktop%2Caps%2C114&sr=8-3&ufe=app_do%3Aamzn1.fos.ac2169a1-b668-44b9-8bd0-5ec63b24bcb5) from Amazon
+🔗 Consider Purchasing the HP ENVY Desktop TE01-3022 PC from [Amazon](https://www.amazon.com/HP-i7-12700-Bluetooth-Pre-Built-TE01-3022/dp/B0B2CBQHCK/ref=sr_1_3?crid=3E6YIOI0D74B0&keywords=hp+desktop+i7&qid=1685903154&sprefix=hp+desktop%2Caps%2C114&sr=8-3&ufe=app_do%3Aamzn1.fos.ac2169a1-b668-44b9-8bd0-5ec63b24bcb5)
 
