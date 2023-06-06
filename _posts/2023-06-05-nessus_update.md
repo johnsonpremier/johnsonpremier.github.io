@@ -39,4 +39,4 @@ tags: [nessus,vulnerability,windows]
 
 <br>
 
-  _Congratulations. That's it! You have successfully updated the Nessus scanner._
+  _Congratulations. That's it!! You have successfully updated the Nessus scanner._
