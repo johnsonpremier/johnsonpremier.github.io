@@ -38,9 +38,10 @@ tags: [nessus,vulnerability,windows]
 ## Reboot the machine and the Trellix/McAfee Settings Will be Re-enabled
 
 <br>
-<br>
 
 ***
+
+<br>
 
 # Update Nessus Scanner (RHEL)
 
