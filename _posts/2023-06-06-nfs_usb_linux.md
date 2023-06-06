@@ -28,7 +28,7 @@ yum install ntfs-3g -y
 * Unload/Remove the USB storage driver from the Linux kernel
 
 ```bash
-modprobe –r usb-storage
+modprobe -r usb-storage
 ```
 
 * Install all usb-storage modules to the kernel
