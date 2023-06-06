@@ -48,7 +48,7 @@ dmesg
 mount /dev/sdb1 /media
 ```
 
-## Add the USB drive to /etc/fstab so it is persistent upon reboots.
+## Add the USB drive to /etc/fstab so it is persistent upon reboots
 * Open the /etc/fstab file
 
 ```bash
