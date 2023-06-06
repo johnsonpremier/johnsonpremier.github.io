@@ -15,7 +15,7 @@ tags: [usb,linux]
 * Ensure that the EPEL repository is configure on the machine
 
 ```bash
-sudo yum repolist
+sudo yum repolist | grep epel
 ```
 
 * Install NTFS-3G From the EPEL Repository
