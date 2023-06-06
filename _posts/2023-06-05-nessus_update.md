@@ -21,7 +21,7 @@ tags: [nessus,vulnerability,windows]
   * Enable On-Access Scan
   * Enable ScriptScan (scans scripts in browser only)	
     * Click Apply
-* Click on Firewall, and uncheck the following boxes
+* Click on Firewall and uncheck the following boxes
   * Enable Firewall
     * Click Apply
 
