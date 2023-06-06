@@ -42,9 +42,6 @@ tags: [nessus,vulnerability,windows]
 
 ***
 
-<br>
-<br>
-
 # Update Nessus Scanner (RHEL)
 
 
