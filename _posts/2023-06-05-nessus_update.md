@@ -9,7 +9,7 @@ tags: [nessus,vulnerability,windows]
 
 # Update Nessus Scanner (WIN10)
 
-## Download the Latest Version of Nessus and copy it to the /tmp directory
+## Download the Latest Version of Nessus
 * Navigate to = <https://www.tenable.com/downloads> 
 
 ## Launch the Trellix Desktop Application and disable Threat Prevention and Firewall settings 
