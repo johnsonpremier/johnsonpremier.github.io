@@ -34,7 +34,7 @@ modprobe –r usb-storage
 * Install all usb-storage modules to the kernel
 
 ```bash
-modprobe –i usb-storage
+modprobe -i usb-storage
 ```
 
 * Read all messages in kernel, look for /dev/sdb1 device
