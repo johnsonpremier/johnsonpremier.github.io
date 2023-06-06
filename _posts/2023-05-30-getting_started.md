@@ -72,6 +72,12 @@ You can also add an image with the below text. It works great for resizing, howe
 <!-- 
 -->
 
+<!-- 
+*** is a page break; 3 stars or more is a page break in markdown
+-->
+
+***
+
 ## Color
 
 <span style="color:red"> **This is really red text** </span>
