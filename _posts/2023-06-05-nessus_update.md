@@ -45,7 +45,7 @@ tags: [nessus,vulnerability,windows]
 # Update Nessus Scanner (RHEL)
 
 
-## Download the Latest Version of Nessus to the /tmp Directory
+## Download the Latest Version of Nessus in the /tmp Directory
 * Navigate to = <https://www.tenable.com/downloads> 
 
 ## Uninstall Previous Version of Nessus 
@@ -93,5 +93,7 @@ systemctl daemon-reload
 * Click “settings” and the version should now reflect the latest update.
   * If the version didn’t reflect the updated number, reboot and check again.
 
+<br>
+<br>
 
   _Congratulations. That's it!!! You have successfully updated the Nessus scanner._
