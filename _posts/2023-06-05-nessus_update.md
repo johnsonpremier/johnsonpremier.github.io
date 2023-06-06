@@ -32,9 +32,69 @@ tags: [nessus,vulnerability,windows]
 * Open a browser and navigate to <https://localhost:8834>
   * Nessus may take a while “compiling plugins” during the initial login
 * Log into Nessus with the necessary credentials
-* Click “settings” and the version should now reflect the 10.4.2 update.
+* Click “settings” and the version should now reflect the latest update.
   * If the version didn’t reflect the updated number, launch the Services application and restart the “Tenable Nessus” service, reboot and check again.
 
 ## Reboot the machine and the Trellix/McAfee Settings Will be Re-enabled
+
+<br>
+<br>
+
+***
+
+<br>
+<br>
+
+# Update Nessus Scanner (RHEL)
+
+
+## Download the Latest Version of Nessus to the /tmp Directory
+* Navigate to = <https://www.tenable.com/downloads> 
+
+## Uninstall Previous Version of Nessus 
+* Stop the running Nessus service
+
+```bash
+/bin/systemctl stop nessusd.service
+```
+
+* Determine the currently installed Nessus package name
+
+```bash
+rpm –qa | grep Nessus
+```
+
+* Remove/Uninstall Nessus
+
+```bash
+rpm –e Nessus
+```
+
+## Install The Latest Version of Nessus on the Machine
+
+* Navigate to the /tmp directory
+
+```bash
+cd /tmp
+```
+* Install The Latest Version of Nessus
+
+```bash
+rpm –ivh “filename”.rpm
+```
+
+* Start the Nessus service
+
+```bash
+systemctl daemon-reload
+```
+
+## Confirm the Latest Version of Nessus is Installed
+* Open a browser and navigate to <https://localhost:8834>
+  * Nessus may take a while “compiling plugins” during the initial login
+* Log into Nessus with the necessary credentials
+* Click “settings” and the version should now reflect the latest update.
+  * If the version didn’t reflect the updated number, reboot and check again.
+
 
   _Congratulations. That's it!!! You have successfully updated the Nessus scanner._
