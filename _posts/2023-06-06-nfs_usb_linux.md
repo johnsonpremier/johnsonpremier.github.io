@@ -1,6 +1,6 @@
 ---
 title: View NTFS USB Device on Linux Machine
-date: 2023-06-06 12:00:00 -0500
+date: 2023-06-06 01:00:00 -0500
 categories: [linux, storage]
 tags: [usb,linux]
 ---
