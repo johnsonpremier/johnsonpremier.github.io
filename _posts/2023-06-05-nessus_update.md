@@ -37,4 +37,4 @@ tags: [nessus,vulnerability,windows]
 
 ## Reboot the machine and the Trellix/McAfee Settings Will be Re-enabled
 
-  _Congratulations. That's it!!! You have successfully updated the Nessus scanner._
+  _Congratulations. That's it! You have successfully updated the Nessus scanner._
