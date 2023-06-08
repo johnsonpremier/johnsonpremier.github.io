@@ -25,7 +25,7 @@ Have you ever wanted to set up a custom subdomain for your GitHub repository? By
 8. Leave the **TTL** as automatic and enable **Proxy status**.
 9. Click the **Save** button.
 
-Congratulations! You have now added your subdomain to Cloudflare.
+Congratulations!!! You have now added your subdomain to Cloudflare.
 
 ## Setting up GitHub Pages for Your Custom Subdomain
 

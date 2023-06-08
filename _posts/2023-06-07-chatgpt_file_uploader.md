@@ -37,5 +37,5 @@ In the confirmation dialog, click on the "Add extension" button to confirm the i
 
 Now that the ChatGPT File Uploader extension is added to your browser, you can start using it with the ChatGPT language model. When interacting with ChatGPT, you will see a file upload button that allows you to select and share files directly within the conversation.
 
-That's it! You have successfully added the ChatGPT File Uploader Chrome extension to your browser. Enjoy the convenience of uploading files while using the ChatGPT language model.
+That's it!!! You have successfully added the ChatGPT File Uploader Chrome extension to your browser. Enjoy the convenience of uploading files while using the ChatGPT language model.
 
