@@ -1,7 +1,7 @@
 ---
 title: How to Add the ChatGPT File Uploader Chrome Extension to Your Browser
 date: 2023-06-07 02:00:00 -0500
-categories: [technology, chrome, extensions]
+categories: [chrome, extensions]
 tags: [chatgpt,browser,chrome]
 ---
 
