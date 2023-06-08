@@ -44,7 +44,6 @@ Follow these steps to create a new admin account on Squarespace:
 
 7. **Send the invitation:** Click "Invite," and you're done! The person will receive an email with an invitation to become an admin on your Squarespace website. They will need to accept the invitation to gain access.
 
-Note: The process of adding admins is the same for both Squarespace 7.0 and 7.1 versions.
 
 ## Understanding Admin Roles
 
