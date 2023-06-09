@@ -97,4 +97,4 @@ systemctl daemon-reload
 <br>
 <br>
 
-  _Congratulations. That's it!! You have successfully updated the Nessus scanner._
+  _Congratulations. That's it! You have successfully updated the Nessus scanner._
