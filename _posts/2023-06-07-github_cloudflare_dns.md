@@ -49,7 +49,7 @@ And you're done! You have now updated the URL that your repository is pointing t
 
 By following these steps, you have configured a custom subdomain for your GitHub repository using Cloudflare DNS. Your subdomain, such as "blog.yourdomain.com," now points to your GitHub Pages site. You can access your site using either the custom subdomain or the original GitHub URL, and both will display identical information.
 
-Now you can personalize your GitHub repository and make it even more accessible to your audience. Enjoy sharing your projects with the world!
+Now you can personalize your GitHub repository and make it even more accessible to your audience. Enjoy sharing your projects with the world!!
 
 *Note: The instructions in this guide assume you already have a registered domain and have access to manage its DNS settings on Cloudflare.*
 
