@@ -27,5 +27,3 @@ if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
 
-#Jekyll SEO Tag
-#gem 'jekyll-seo-tag'
