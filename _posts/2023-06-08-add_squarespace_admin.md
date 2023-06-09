@@ -72,5 +72,5 @@ By assigning the appropriate roles to your Squarespace website admins, you can e
 
 Adding admins and assigning roles in Squarespace is a straightforward process that offers numerous benefits in managing your website and team. Take advantage of this feature to streamline your workflow and improve the overall management of your Squarespace website.
 
-*Now that you have the necessary knowledge, you can confidently add admins and grant them the appropriate roles on your Squarespace website. Enjoy the convenience, control, and enhanced teamwork that comes with managing multiple admins, if necessary!!*
+*Now that you have the necessary knowledge, you can confidently add admins and grant them the appropriate roles on your Squarespace website. Enjoy the convenience, control, and enhanced teamwork that comes with managing multiple admins, if necessary!*
 
