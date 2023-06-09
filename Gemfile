@@ -28,4 +28,4 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 #Jekyll SEO Tag
-gem 'jekyll-seo-tag'
+#gem 'jekyll-seo-tag'
