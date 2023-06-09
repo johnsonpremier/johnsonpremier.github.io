@@ -1,6 +1,6 @@
 ---
 title: Nessus Update
-date: 2023-06-05 12:00:00 -0500
+date: 2023-06-08 12:00:00 -0500
 categories: [windows, linux, security]
 tags: [nessus,vulnerability,windows]
 ---
@@ -97,4 +97,4 @@ systemctl daemon-reload
 <br>
 <br>
 
-  _Congratulations. That's it! You have successfully updated the Nessus scanner._
+  _Congratulations. That's it!! You have successfully updated the Nessus scanner._
