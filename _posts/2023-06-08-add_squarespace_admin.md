@@ -6,7 +6,7 @@ tags: [squarespace,website]
 ---
 
 
-<img src="/assets/img/posts/add_squarespace_admin/add_squarespace_admin.jpg" alt="How to Add Squarespace Website Admins and Understand Their Roles" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/add_squarespace_admin/add_squarespace_admin1.jpg" alt="How to Add Squarespace Website Admins and Understand Their Roles" style="height:400px; width:600px;" />
 
 
 
