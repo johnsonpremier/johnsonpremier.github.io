@@ -7,7 +7,6 @@ tags: [password,vulnerability,linux]
 
 <img src="/assets/img/posts/creating_hashed_password/creating_hashed_password.jpg" alt="Creating a SHA512 Hashed Password" style="height:400px; width:600px;" />
 
-# Creating a SHA512 Hashed Password
 
 Have you ever needed to store a password securely without exposing it in plain text? One way to achieve this is by using a SHA512 hashed password. In this blog post, we will learn how to create a SHA512 hashed password using the terminal.
 

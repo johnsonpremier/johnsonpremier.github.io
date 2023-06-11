@@ -7,8 +7,6 @@ tags: [usb,linux]
 
 <img src="/assets/img/posts/nfs-usb-linux/nfs-usb-linux.jpg" alt="View NTFS USB Device on Linux Machine" style="height:400px; width:600px;" />
 
-# View NTFS USB Device on Linux Machine
-
 
 ## Install NTFS-3g from the EPEL Repository
 

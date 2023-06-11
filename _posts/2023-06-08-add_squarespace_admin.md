@@ -10,8 +10,6 @@ tags: [squarespace,website]
 
 
 
-# How to Add Squarespace Website Admins and Understand Their Roles
-
 Managing a Squarespace website becomes much easier when you have multiple administrators with their own unique accounts. Not only does this eliminate the need to change your login credentials whenever someone stops working with you, but it also allows you to control their access and remove them easily when necessary. In this article, we will guide you through the process of creating a new admin account on Squarespace and explain the various roles available.
 
 ## Reasons to Add Admins

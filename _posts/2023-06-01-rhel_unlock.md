@@ -8,7 +8,6 @@ tags: [rhel,user_management,terminal]
 
 <img src="/assets/img/posts/rhel-unlock.jpg" alt="RHEL Unlock" style="height:400px; width:600px;" />
 
-# Unlock RHEL Account via Faillock
 
 In RHEL (Red Hat Enterprise Linux), you can unlock a locked user account using the `faillock` command. The `faillock` utility is used to display and modify the login failure records, including unlocking user accounts. Here's how you can do it:
 

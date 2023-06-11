@@ -9,8 +9,6 @@ tags: [chatgpt,browser,chrome]
 <img src="/assets/img/posts/chatgpt_file_uploader/chatgpt_file_uploader.jpg" alt="How to Add the ChatGPT File Uploader Chrome Extension to Your Browser" style="height:400px; width:600px;" />
 
 
-## How to Add the ChatGPT File Uploader Chrome Extension to Your Browser
-
 The ChatGPT File Uploader Chrome extension is a useful tool that allows you to easily upload files while interacting with the ChatGPT language model. With this extension, you can seamlessly share images, documents, and other files during your conversations. Follow the steps below to add the ChatGPT File Uploader extension to your Chrome browser.
 
 ### Step 1: Open the Chrome Web Store
