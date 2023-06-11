@@ -36,7 +36,7 @@ Start using SHA512 hashed passwords today and enhance the security of your appli
 
 Now that you know how to create a SHA512 hashed password using the terminal, go ahead and leverage this technique to secure your sensitive data.
 
-_Happy hashing!!!_
+_Happy hashing!!_
 
 <br>
 <br>
