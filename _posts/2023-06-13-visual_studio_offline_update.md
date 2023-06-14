@@ -34,7 +34,7 @@ Are you in need of installing Visual Studio 2019 on a machine without internet a
 ## Copy the Local Install Cache to A Network Location or USB Drive
 
 1. Using a NAS or some other type of media that will hold 35-40GB of data, copy the data so it can be transferred to the offline machine.
-2. Copy the Local Install Cache to the Offline Machine to the ~\users\public\public downloads).
+2. Copy the local install cache to the offline machine to the ~\users\public\public downloads) directory.
 
 ## Install Visual Studio from the Local Cache
 
