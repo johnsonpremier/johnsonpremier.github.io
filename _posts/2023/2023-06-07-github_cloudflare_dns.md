@@ -6,7 +6,7 @@ tags: [cloudflare,website,dns,github]
 ---
 
 
-<img src="/assets/img/posts/github_cloudflare_dns/github_cloudflare_dns.jpg" alt="Configure a GitHub Repository to Use A Cloudflare DNS Custom Subdomain" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/2023/github_cloudflare_dns/github_cloudflare_dns.jpg" alt="Configure a GitHub Repository to Use A Cloudflare DNS Custom Subdomain" style="height:400px; width:600px;" />
 
 
 Have you ever wanted to set up a custom subdomain for your GitHub repository? By using Cloudflare DNS, you can easily achieve this. In this guide, we will walk you through the steps to configure your GitHub repository to use a Cloudflare DNS custom subdomain. Let's get started!

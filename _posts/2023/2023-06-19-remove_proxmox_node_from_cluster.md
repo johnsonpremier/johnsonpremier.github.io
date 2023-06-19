@@ -5,7 +5,7 @@ categories: [proxmox, hypervisor]
 tags: [proxmox,hypervisor]
 ---
 
-<img src="/assets/img/posts/remove_proxmox_node_from_cluster/remove_proxmox_node_from_cluster.jpg" alt="Remove Proxmox Node From Cluster" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/2023/remove_proxmox_node_from_cluster/remove_proxmox_node_from_cluster.jpg" alt="Remove Proxmox Node From Cluster" style="height:400px; width:600px;" />
 
 
 If you need to remove a node from a Proxmox cluster, this blog post will guide you through the process. Whether you are decommissioning a node or migrating to a new one, the steps below will help you successfully remove the node. Let's get started!

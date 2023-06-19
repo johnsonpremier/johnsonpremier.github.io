@@ -13,11 +13,11 @@ tags: [ssh,linux,] #Tag names should always be lowercase
 
 - When attempting to ssh into a machine, you receive a similar message.
 
-![SSH Keygen1](/assets/img/posts/ssh_keygen/ssh-keygen1.jpg)
+![SSH Keygen1](/assets/img/posts/2023/ssh_keygen/ssh-keygen1.jpg)
 
 - When you connect to a server via SSH, it gets a fingerprint for the ECDSA key, which it then saves to your home directory under ~/.ssh/known_hosts. This is done after first connecting to the server, and will prompt you with a message like this: 
 
-![SSH Keygen2](/assets/img/posts/ssh_keygen/ssh-keygen2.jpg)
+![SSH Keygen2](/assets/img/posts/2023/ssh_keygen/ssh-keygen2.jpg)
 
 
 - If you enter 'yes', then the fingerprint is saved to the ~/.ssh/known_hosts file, which SSH then consults every time you connect to that server.

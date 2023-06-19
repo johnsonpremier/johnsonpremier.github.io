@@ -5,7 +5,7 @@ categories: [windows, linux, security]
 tags: [nessus,vulnerability,windows]
 ---
 
-<img src="/assets/img/posts/nessus-update/nessus-update.jpg" alt="Nessus Update" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/2023/nessus-update/nessus-update.jpg" alt="Nessus Update" style="height:400px; width:600px;" />
 
 # Update Nessus Scanner (WIN10)
 

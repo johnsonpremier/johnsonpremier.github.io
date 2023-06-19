@@ -5,7 +5,7 @@ categories: [windows, development]
 tags: [development,vulnerability,windows]
 ---
 
-<img src="/assets/img/posts/visual_studio_offline_update/visual_studio_offline_update.jpg" alt="Visual Studio Offline Update" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/2023/visual_studio_offline_update/visual_studio_offline_update.jpg" alt="Visual Studio Offline Update" style="height:400px; width:600px;" />
 
 
 Are you in need of installing Visual Studio 2019 on a machine without internet access? In this blog post, we will guide you through the process of performing an offline installation of Visual Studio 2019. Let's get started!

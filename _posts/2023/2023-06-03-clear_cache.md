@@ -5,7 +5,7 @@ categories: [browser]
 tags: [cache,browser,brave,chrome]
 ---
 
-<img src="/assets/img/posts/clear-cache/clear-cache.jpg" alt="Clear Cache" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/2023/clear-cache/clear-cache.jpg" alt="Clear Cache" style="height:400px; width:600px;" />
 
 
 Below are instructions for the Brave browser, but information would also apply to any Chromium browser (Chrome, Brave, Opera, et al)

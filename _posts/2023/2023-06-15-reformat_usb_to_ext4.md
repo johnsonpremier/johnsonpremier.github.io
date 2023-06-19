@@ -5,7 +5,7 @@ categories: [linux, storage]
 tags: [linux,storage]
 ---
 
-<img src="/assets/img/posts/reformat_usb_to_ext4/reformat_usb_to_ext4.png" alt="Reformat USB Device to EXT4" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/2023/reformat_usb_to_ext4/reformat_usb_to_ext4.png" alt="Reformat USB Device to EXT4" style="height:400px; width:600px;" />
 
 
 If you're using a RHEL machine and need to view USB external devices, you might need to reformat the USB device to the EXT4 file system. In this blog post, we will guide you through the process. Let's get started!
