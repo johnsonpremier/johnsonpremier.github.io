@@ -1,6 +1,6 @@
 ---
 title: Remove Proxmox Node From Cluster
-date: 2023-06-18 01:00:00 -0500
+date: 2023-06-19 01:00:00 -0500
 categories: [proxmox, hypervisor]
 tags: [proxmox,hypervisor]
 ---
@@ -23,7 +23,7 @@ Follow these steps to remove a node from the cluster:
 
 1. Delete or migrate any VMs that are running on the node that you want to remove. This step ensures that no active VMs are impacted during the removal process.
 
-2. SSH into a working/running node in the Proxmox cluster. For example, if the node you want to remove is JPCproxmox1 and its IP address is 192.168.1.101, run the following command:
+2. SSH into a working/running node in the Proxmox cluster.
    ```bash
    ssh username@IPAddress/Hostname
    ```
