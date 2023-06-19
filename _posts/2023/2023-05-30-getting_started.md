@@ -68,7 +68,7 @@ You can also add an image with the below text. It works great for resizing, howe
 
 -->
 
-<img src="/assets/img/posts/rhel-unlock/rhel-unlock.jpg" alt="RHEL Unlock" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/2023/rhel-unlock/rhel-unlock.jpg" alt="RHEL Unlock" style="height:400px; width:600px;" />
 
 <!-- 
 -->
