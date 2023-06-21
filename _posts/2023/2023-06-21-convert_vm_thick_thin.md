@@ -5,10 +5,10 @@ categories: [vsphere, hypervisor, virtualization]
 tags: [vsphere,hypervisor,virtualization]
 ---
 
-<img src="/assets/img/posts/2023/convert_vm_tick_thin/convert_vm_tick_thin.png" alt="Convert vSphere VM From Thick to Thin Provisioning" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/2023/convert_vm_thick_thin/convert_vm_thick_thin.png" alt="Convert vSphere VM From Thick to Thin Provisioning" style="height:400px; width:600px;" />
 
 
-If you're using vSphere and want to optimize storage usage by converting a VM from thick to thin provisioning, this blog post will guide you through the process. Thin provisioning allows you to allocate storage space dynamically, resulting in efficient utilization of your storage resources. We'll walk you through the steps for converting the VM from thick to thin provisioning. Let's get started!
+If you're using vSphere and want to optimize storage usage by converting a VM from thick to thin provisioning, this blog post will guide you through the process. Thin provisioning allows you to allocate storage space dynamically, resulting in efficient utilization of your storage resources. We'll walk you through the steps for converting the VM from thick to thin provisioning.
 
 ## Prerequisites
 
