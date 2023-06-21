@@ -5,7 +5,7 @@ categories: [vsphere, hypervisor, virtualization]
 tags: [vsphere,hypervisor,virtualization]
 ---
 
-<img src="/assets/img/posts/2023/remove_proxmox_node_from_cluster/remove_proxmox_node_from_cluster.jpg" alt="Convert vSphere VM From Thick to Thin Provisioning" style="height:400px; width:600px;" />
+<img src="/assets/img/posts/2023/convert_vm_tick_thin/convert_vm_tick_thin.png" alt="Convert vSphere VM From Thick to Thin Provisioning" style="height:400px; width:600px;" />
 
 
 If you're using vSphere and want to optimize storage usage by converting a VM from thick to thin provisioning, this blog post will guide you through the process. Thin provisioning allows you to allocate storage space dynamically, resulting in efficient utilization of your storage resources. We'll walk you through the steps for converting the VM from thick to thin provisioning. Let's get started!
@@ -32,6 +32,7 @@ Follow these steps to convert the VM to thin provisioning:
 9. Connect to the ESXi host via SSH.
 
 10. Run the following commands:
+
 ```bash
 # Change the directory to the datastore (update path as needed)
 # (/vmfs/... path from above)
@@ -49,6 +50,7 @@ mv "./WIN10PC/WIN10PC.vmdk" "./WIN10PC/WIN10PC.vmdk.thick"
 # Rename the target (thin) file to the original .vmdk file name
 mv "./WIN10PC/WIN10PC-thin.vmdk" "./WIN10PC/WIN10PC.vmdk"
 ```
+
 ## Updating the VM Configuration
 
 Follow these steps to update the VM configuration:
