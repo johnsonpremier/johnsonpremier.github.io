@@ -69,5 +69,5 @@ You have successfully installed Apache NetBeans on your RHEL 8 machine. The appl
 
 <br>
 
-🔗 For more information and documentation on Apache NetBeans, visit the [Official Apache Netbeans Website](https://netbeans.apache.org)
+🔗 For more information and documentation on Apache NetBeans, visit the [Official Apache Netbeans Website](https://netbeans.apache.org)!
 
