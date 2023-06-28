@@ -9,7 +9,7 @@ tags: [netbeans,rhel,linux]
 " style="height:400px; width:600px;" />
 
 
-Apache NetBeans is a powerful integrated development environment (IDE) for Java, PHP, and other programming languages. In this blog post, we will walk you through the step-by-step process of installing Apache NetBeans on a RHEL 8 machine. Let's get started!
+Apache NetBeans is a powerful integrated development environment (IDE) for Java, PHP, and other programming languages. In this blog post, we will walk you through the step-by-step process of installing Apache NetBeans on a RHEL 8 machine. Let's get started!!
 
 ## Prerequisites
 
