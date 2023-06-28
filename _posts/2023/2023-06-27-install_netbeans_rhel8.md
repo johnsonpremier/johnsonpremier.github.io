@@ -45,7 +45,7 @@ wget https://archive.apache.org/dist/netbeans/netbeans-installers/18/apache-netb
 ```
 7. Run the installer
 ```bash
-sudo rpm -Uvh  apache-netbeans-*.noarch.rpm
+sudo rpm -Uvh apache-netbeans-*.noarch.rpm
 ```
 <br>
 <br>
