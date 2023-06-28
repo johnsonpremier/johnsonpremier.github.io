@@ -1,6 +1,6 @@
 ---
 title: Install Apache NetBeans on RHEL 8 Machine
-date: 2023-06-25 01:00:00 -0500
+date: 2023-06-27 01:00:00 -0500
 categories: [netbeans, rhel, linux]
 tags: [netbeans,rhel,linux]
 ---
