@@ -69,7 +69,7 @@ sudo rpm -Uvh apache-netbeans-*.noarch.rpm
 
 <br>
 
-Congratulations! You have successfully installed Apache NetBeans on your RHEL 8 machine. The application is listed within your RHEL8 applications menu. You can now start using NetBeans as your preferred IDE for Java, PHP, and other programming languages.
+You have successfully installed Apache NetBeans on your RHEL 8 machine. The application is listed within your RHEL8 applications menu. You can now start using NetBeans as your preferred IDE for Java, PHP, and other programming languages.
 
 <br>
 
