@@ -6,7 +6,7 @@ tags: [virtualization]
 ---
 
 
-<img src="assets/img/posts/2023/resize-vsphere-vm-hd/resize-vsphere-vm-hd.jpg" alt="Convert vSphere VM From Thick to Thin Provisioning" style="height:400px; width:600px;" />
+<img src="assets/img/posts/2023/resize-vsphere-vm-hd/resize-vsphere-vm-hd.jpg" alt="Resize vSphere VM Hard Drive" style="height:400px; width:600px;" />
 
 
 # Resize vSphere VM Hard Drive
