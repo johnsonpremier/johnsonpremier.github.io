@@ -5,9 +5,6 @@ categories: [web_development]
 tags: [web_development]
 ---
 
-<img src="/assets/img/posts/2023/adding_download_files/adding_download_files.jpg" alt="Adding the Ability to Download Files from a Markdown Website" style="height:400px; width:600px;" />
-
-
 # Adding the Ability to Download Files from a Markdown Website
 
 In this blog post, we will explore how to enhance your Markdown-based website by adding the ability for users to download files. Markdown is a simple and widely used markup language for creating content-rich web pages. By incorporating the ability to download files, you can provide additional resources to your audience. Let's get started!
