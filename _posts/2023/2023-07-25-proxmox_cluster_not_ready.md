@@ -40,4 +40,4 @@ pvecm expected 1
 
 ## Conclusion
 
-By following these  steps, you can fix the "Cluster not ready – no quorum? (500)" error in Proxmox and restore the functionality of your Proxmox cluster. Ensuring that the cluster has a healthy Quorum is essential for maintaining high availability and optimal performance!
+By following these  steps, you can fix the "Cluster not ready – no quorum? (500)" error in Proxmox and restore the functionality of your Proxmox cluster. Ensuring that the cluster has a healthy Quorum is essential for maintaining high availability and optimal performance!!!
