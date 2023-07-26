@@ -1,6 +1,6 @@
 ---
 title: How to Fix "Cluster not ready – no quorum? (500)" Error in Proxmox
-date: 2023-07-26 12:00:00 -0500
+date: 2023-07-25 12:00:00 -0500
 categories: [proxmox, hypervisor]
 tags: [proxmox,hypervisor]
 ---
