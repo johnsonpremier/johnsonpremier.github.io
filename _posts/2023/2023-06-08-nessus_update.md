@@ -84,6 +84,12 @@ rpm –ivh “filename”.rpm
 * Start the Nessus service
 
 ```bash
+/bin/systemctl start nessusd.service
+```
+
+* You may receive a message “Warning: nessusd.service changed on disk”. If you do run this command to reload the daemon:
+
+```bash
 systemctl daemon-reload
 ```
 
